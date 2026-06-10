@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 338}
   m_MaxSize: {x: 10000, y: 10000}
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 404
     height: 764.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -871,10 +871,10 @@ MonoBehaviour:
       displayed: 1
       id: unity-search-toolbar
       index: 9
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":-235.0,"y":-74.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":true,"m_Floating":false,"m_FloatingSnapOffset":{"x":-236.800048828125,"y":-76.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: -235, y: -74}
+      snapOffset: {x: -236.80005, y: -76}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       layout: 4
@@ -1248,9 +1248,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -88.84179, y: 274.37888, z: -3.2305558}
+    m_Target: {x: 1433.7346, y: -219.02258, z: -0.008614531}
     speed: 2
-    m_Value: {x: -88.84179, y: 274.37888, z: -3.2305558}
+    m_Value: {x: 1433.7346, y: -219.02258, z: -0.008614531}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1300,9 +1300,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 412.8959
+    m_Target: 24.063032
     speed: 2
-    m_Value: 412.8959
+    m_Value: 24.063032
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1381,11 +1381,32 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -33022
+      - m_Data: -32712
+      - m_Data: -31108
+      - m_Data: -28580
+      - m_Data: -28270
+      - m_Data: -26600
+      - m_Data: -24628
       - m_Data: -1316
+      - m_Data: 50398
+      - m_Data: 51376
+      - m_Data: 53192
+      - m_Data: 53324
+      - m_Data: 54284
+      - m_Data: 56002
+      - m_Data: 57006
+      - m_Data: 57092
+      - m_Data: 57516
+      - m_Data: 100380
+      - m_Data: 141456
+      - m_Data: 141616
+      - m_Data: 145794
+      - m_Data: 146244
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: wood1_0 (35)
+        m_OriginalName: wood1_0 (35)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -1393,10 +1414,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 0
+          m_Data: 58714
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 7}
@@ -1431,7 +1452,7 @@ MonoBehaviour:
     x: 296.80002
     y: 79.200005
     width: 833.2
-    height: 390.8
+    height: 368.4
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1472,7 +1493,7 @@ MonoBehaviour:
     x: 296.80002
     y: 79.200005
     width: 833.2
-    height: 566.8
+    height: 368.4
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
