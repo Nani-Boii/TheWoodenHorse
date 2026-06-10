@@ -17,4 +17,5 @@ To get a local copy of this project up and running for development, follow these
 
 ### Installation & Setup
 1. Clone the repository to your local machine:
+```bash
 git clone [https://github.com/Nani-Boii/TheWoodenHorse.git](https://github.com/Nani-Boii/TheWoodenHorse.git)
