@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Gakcgroound
+  - Platform
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - NPC
+  - Building
+  - Trees
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layout
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2685687199
+    locked: 0
+  - name: Platform
+    uniqueID: 3876171163
+    locked: 0
+  - name: UpperGround
+    uniqueID: 667311181
+    locked: 0
+  - name: Ground
+    uniqueID: 1814129025
+    locked: 0
+  - name: TreesBack
+    uniqueID: 3230231859
+    locked: 0
+  - name: Player Back
+    uniqueID: 1441927463
+    locked: 0
+  - name: Enemy
+    uniqueID: 3378888749
+    locked: 0
+  - name: Player
+    uniqueID: 2076018667
+    locked: 0
+  - name: PlayerFront
+    uniqueID: 2852040759
+    locked: 0
+  - name: TreesFront
+    uniqueID: 2310968339
+    locked: 0
+  m_RenderingLayers:
+  - Default

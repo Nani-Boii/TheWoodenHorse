@@ -1,0 +1,13 @@
+# Unity default ignores
+/[Ll]ibrary/
+/[Pp]layer[Dd]ata[Cc]ache/
+/[Bb]uild/
+/[Cc]ache/
+/[Logs]/
+/[Vv]ersion[Cc]ontrol/
+/[Mm]emory[Cc]aptures/
+/[Tt]emp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
